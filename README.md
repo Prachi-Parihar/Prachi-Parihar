@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a BTech student and a Full Stack Web Developer with a strong interest in building modern, responsive, and user-friendly web applications.<br><br>I have experience in developing complete websites with a focus on clean design, responsiveness, and performance. I enjoy working on real-world projects and continuously improve my skills by learning new technologies.<br><br>Full-Stack Developer | Java • Spring Boot • React Building scalable, cloud-native applications 🚀 Docker • Kubernetes • MongoDB • AWS
+I'm a B.Tech CSE student and Full Stack Developer who enjoys building responsive, scalable web applications.
+
+I work with the MERN stack (React.js, Node.js, Express.js, MongoDB) and have hands-on experience with JWT authentication, RBAC, Socket.IO, Docker, and Redis. I've also explored AI/LLM concepts like RAG, LangChain, and LangGraph, and I'm interested in building AI-powered full-stack products.
+
+I'm also comfortable with C, C++, and Data Structures & Algorithms, which helps me write efficient, well-structured code and solve problems systematically| React Building scalable, cloud-native applications 🚀 Docker • Kubernetes • MongoDB • AWS
 
 
 ## 🌐 Socials:
